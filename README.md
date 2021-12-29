@@ -1,2 +1,2 @@
-# Snapshoy
+# Snapshot
 snapchat clone
